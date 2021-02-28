@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Mykhaylo. I am passionate about Web Develompment, Backend and Frontend. Currently working on some personal projects and looking forward to collaborating. 
+My name is Mykhaylo. I am passionate about Web Develompment, Backend and Frontend. Currently working on some personal projects and looking forward to collaborate. 
 Also want to participate in Open Source projects and level up my skills.
 
 - 📫 Email: mskiy@protonmail.com
